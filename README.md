@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي لا تروح وتخليني
+> في عيونك ألاقي كل سنيني
+> مش عايز أمشي والليل يناديني
+> بنظرة منك أنت بتحييني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
