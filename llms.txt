@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-ayez-amshee-i-dont-want-to-leavewalk-away/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Mosh Ayez Amshee – I don't want to leave/walk away.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
