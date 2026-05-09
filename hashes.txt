@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Ayez Amshee – I don't want to leave/walk away.
+
+This log tracks the cryptographic history and versioning for the song **Mosh Ayez Amshee – I don't want to leave/walk away.** (mosh-ayez-amshee-i-dont-want-to-leavewalk-away).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:01:02.252369 | `v1` | `640c6f66e58cc49a0ee36bc7675dc83b426eb8cde35da890e82ecab9ac8c58bb` | `f11322fbd546d0b39678eb82c08e0ba8cd67e8f6a13eddb43a7d3254451135d9` | `2026-05-09_mosh-ayez-amshee-i-dont-want-to-leavewalk-away-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
